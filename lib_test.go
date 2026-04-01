@@ -1,4 +1,4 @@
-package gserver  
+package gameserver  
 import (
 	"testing"
 )
